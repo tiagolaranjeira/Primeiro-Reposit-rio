@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio
-Meu primeiro Repositório
+# Criação do meu primeiro repositório
+Armazenagem de conteúdos relevantes
